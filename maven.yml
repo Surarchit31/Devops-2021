@@ -7,5 +7,5 @@
         artifact_id: mysql-connector-java
         version: "{{ verionToBeDownloaded }}"
         repository_url: "https://repo.maven.apache.org/maven2/"
-        dest: /opt
+        dest: /temp
 
